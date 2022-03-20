@@ -1,1 +1,1 @@
-# blog_img
+the image bed for notion and blog
